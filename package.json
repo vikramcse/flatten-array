@@ -1,6 +1,6 @@
 {
-  "name": "flatten-array",
-  "version": "1.0.0",
+  "name": "slim-array",
+  "version": "1.0.1",
   "description": "Flatten the nested array",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/vikramcse/flatten-array.git"
   },
-  "keywords": [],
+  "keywords": ["flat", "array", "nested", "slim", "reduce", "shrink"],
   "author": "Vikram <vikramcse.10@gmail.com>",
   "license": "ISC",
   "bugs": {
